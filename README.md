@@ -157,9 +157,9 @@ Enjoy managing your wishes with the **WishList App**! 🚀
 ## Images
 <table>
   <tr>
-<td><img src="https://github.com/Akash05-kr/WishListApp/blob/master/icon.jpg" alt="Icon" width="420" height="750"></td>
-<td><img src="https://github.com/Akash05-kr/WishListApp/blob/master/view.jpg" alt="view" width="420" height="750"></td>
-<td><img src="https://github.com/Akash05-kr/WishListApp/blob/master/add.jpg" alt="add" width="420" height="750"></td>
+<td><img src="https://github.com/Akash05-kr/WishListApp/blob/master/icon.jpg" alt="Icon" width="420" height="650"></td>
+<td><img src="https://github.com/Akash05-kr/WishListApp/blob/master/view.jpg" alt="view" width="420" height="650"></td>
+<td><img src="https://github.com/Akash05-kr/WishListApp/blob/master/add.jpg" alt="add" width="420" height="650"></td>
 </tr>
 </table>
     <table>
