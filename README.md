@@ -151,3 +151,21 @@ For any inquiries or feedback, please reach out to akashchaurasiya5904@gmail.com
 
 Enjoy managing your wishes with the **WishList App**! 🚀
 
+
+---
+
+## Images
+<table>
+  <tr>
+<td><img src="https://github.com/Akash05-kr/WishListApp/blob/master/icon.jpg" alt="Icon" width="420" height="750"></td>
+<td><img src="https://github.com/Akash05-kr/WishListApp/blob/master/view.jpg" alt="view" width="420" height="750"></td>
+<td><img src="https://github.com/Akash05-kr/WishListApp/blob/master/add.jpg" alt="add" width="420" height="750"></td>
+</tr>
+</table>
+    <table>
+ <tr>
+<td><img src="https://github.com/Akash05-kr/WishListApp/blob/master/update.jpg" alt="update" width="420" height="900"></td>
+<td><img src="https://github.com/Akash05-kr/WishListApp/blob/master/delete.jpg" alt="delete" width="420" height="900"></td>
+  </tr>
+</table>
+
