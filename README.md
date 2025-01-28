@@ -73,7 +73,7 @@ The **WishList App** is a feature-rich Android application developed using **Kot
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Akash05-kr/WishListApp>
    ```
 
 2. Open the project in **Android Studio**.
